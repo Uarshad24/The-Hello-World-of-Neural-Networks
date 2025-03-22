@@ -13,5 +13,5 @@ Key Concepts:
   * Model Training and Evaluation
 
 #### 2. Image Classification with TensorFlow (MNIST & Fashion MNIST)
-This project explores image classification using two popular datasets: MNIST and Fashion MNIST. The MNIST dataset contains 60,000 28x28 grayscale images of handwritten digits (0-9) for training, with 10,000 images for testing. Fashion MNIST consists of 60,000 28x28 grayscale images of clothing items (e.g., T-shirts, pants, shoes) for training, and 10,000 test images. /n
+This project explores image classification using two popular datasets: MNIST and Fashion MNIST. The MNIST dataset contains 60,000 28x28 grayscale images of handwritten digits (0-9) for training, with 10,000 images for testing. Fashion MNIST consists of 60,000 28x28 grayscale images of clothing items (e.g., T-shirts, pants, shoes) for training, and 10,000 test images. \
 The objective is to build models to classify these images. For MNIST, a Dense Neural Network is used, while for Fashion MNIST, a Convolutional Neural Network (CNN) is applied to achieve better performance on image data. The project covers essential concepts like image preprocessing, model building, and training with TensorFlow. EarlyStopping is used to prevent overfitting during training.
