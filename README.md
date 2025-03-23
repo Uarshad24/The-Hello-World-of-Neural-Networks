@@ -22,4 +22,5 @@ Key Concepts
   * Convolutional Neural Networks (CNNs)
   * Image Normalization
   * Early Stopping Callbacks
-  * Image Classification
+  * Model Training and Evaluation
+
