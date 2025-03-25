@@ -32,4 +32,5 @@ Key Concepts
   * Image Preprocessing with TensorFlow Data API
   * Data Augmentation
   * Transfer Learning (InceptionV3)
+  * Model Training and Evaluation
   * Model Prediction
