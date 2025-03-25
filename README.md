@@ -29,7 +29,7 @@ This project explores image classification using the Kaggle Cats vs Dogs dataset
 
 Key Concepts
 
-  * TensorFlow Data API
+  * Image Preprocessing with TensorFlow Data API
   * Data Augmentation
   * Transfer Learning (InceptionV3)
   * Model Prediction
