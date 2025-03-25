@@ -24,12 +24,12 @@ Key Concepts
   * Early Stopping Callbacks
   * Model Training and Evaluation
 
-#### 2. Image Classification using Real-World Images (CATS VS DOGS)
+#### 3. Image Classification using Real-World Images (CATS VS DOGS)
 This project explores image classification using the Kaggle Cats vs Dogs dataset. Originally containing 25,000 images, the dataset has been filtered down to 2,002 images for this project. The goal is to build a model that can classify images as either containing a cat or a dog.
 
 Key Concepts
 
   * TensorFlow Data API
-  *Data Augmentation
-  *Transfer Learning (InceptionV3)
-  *Model Prediction
+  * Data Augmentation
+  * Transfer Learning (InceptionV3)
+  * Model Prediction
