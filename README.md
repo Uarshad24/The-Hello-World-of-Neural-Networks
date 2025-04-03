@@ -34,3 +34,15 @@ Key Concepts
   * Transfer Learning (InceptionV3)
   * Model Training and Evaluation
   * Model Prediction
+
+#### 4. Sentiment Analysis on IMDB Movie Reviews
+This project focuses on classifying the sentiment of IMDB movie reviews as either positive or negative. It explores various deep learning architectures to handle natural language processing (NLP) tasks, including simple dense models, Long Short-Term Memory (LSTM) networks, Gated Recurrent Units (GRU), and Convolutional Neural Networks (CNNs). The dataset consists of 50,000 movie reviews, with 25,000 for training and 25,000 for testing.
+
+Key Concepts 
+
+ * Text Preprocessing – Tokenization, padding, and word embeddings
+ * Recurrent Neural Networks (RNNs) – LSTM and GRU for sequential data processing
+ * Convolutional Neural Networks (CNNs) for NLP – Extracting local patterns in text
+ * Embedding Layers – Representing words as dense vectors
+ * Model Training and Evaluation
+
