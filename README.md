@@ -53,8 +53,8 @@ The goal is to predict future stock prices based on past behavior. A windowed da
 
 Key Concepts
 
- * Data Fetching with yfinance – Retrieve historical AAPL stock price data directly from Yahoo Finance
- * Windowed Time Series Dataset – Transform historical data into sequences to feed into the model
+ * Data extraction with yfinance – Retrieve historical AAPL stock price data directly from Yahoo Finance
+ * Windowed Dataset – Transform historical data into sequences to feed into the model
  * Convolutional Neural Networks (CNNs) – Extract short-term trends and features from sequences
  * Recurrent Neural Networks (LSTM) – Learn temporal dependencies and long-term patterns
  * Model Training and Evaluation
