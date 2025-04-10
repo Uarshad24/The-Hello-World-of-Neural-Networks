@@ -47,3 +47,15 @@ Key Concepts
  * Model Training and Evaluation
 
 #### 5. Stock Price Forecasting with CNNs and LSTMs (Time Series Analysis)
+This project focuses on forecasting Apple Inc. (AAPL) stock prices using historical data fetched from the Yahoo Finance API via the yfinance library. The model is trained on the Close price using a sliding window approach to capture time dependencies in the data. It combines Convolutional Neural Networks (CNNs) for feature extraction and Long Short-Term Memory (LSTM) networks for sequence modeling.
+
+The goal is to predict future stock prices based on past behavior. A windowed dataset is created, normalized using MinMax scaling, and passed to a hybrid CNN-LSTM model. The final model is trained and evaluated, and predictions are visualized to compare against real-world stock movements.
+
+Key Concepts
+
+ * Data Fetching with yfinance – Retrieve historical AAPL stock price data directly from Yahoo Finance
+ * Windowed Time Series Dataset – Transform historical data into sequences to feed into the model
+ * Convolutional Neural Networks (CNNs) – Extract short-term trends and features from sequences
+ * Recurrent Neural Networks (LSTM) – Learn temporal dependencies and long-term patterns
+ * Model Training and Evaluation
+ * Forecasting and Visualization – Generate future predictions and visualize actual vs predicted stock trends
