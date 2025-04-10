@@ -46,3 +46,4 @@ Key Concepts
  * Embedding Layers – Representing words as dense vectors
  * Model Training and Evaluation
 
+#### 5. Stock Price Forecasting with CNNs and LSTMs (Time Series Analysis)
